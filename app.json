@@ -12,6 +12,7 @@
     },
     "ios": {
       "bundleIdentifier": "com.snow.reader"
-    }
+    },
+    "sdkVersion": "53.0.0"
   }
 }
